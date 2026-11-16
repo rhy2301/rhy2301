@@ -1,4 +1,4 @@
-# Hi, I'm <!-- 이름 (영문) --> 👋
+# Hi, I'm Rihyun Kang 👋
 
 **Blockchain Infrastructure Engineer · Solana · AI Agents**
 
