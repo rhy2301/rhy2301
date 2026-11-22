@@ -9,7 +9,7 @@
   - 배경이 밝은 색이면 logoColor=black 으로
 -->
 
-<div align="center> <h1>Hi, I'm Rihyun Kang</h1> </div>
+#Hi, I'm Rihyun Kang
 
 ### Solana internals · AI agents · Backend
 
