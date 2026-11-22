@@ -9,20 +9,15 @@
   - 배경이 밝은 색이면 logoColor=black 으로
 -->
 
-# Rihyun Kang
-
-### Solana internals · AI agents · Backend
-
-> I build systems where code, not a model, decides what moves money — and I read protocol source to
-> find out how things actually work.
-
-Computer Science & Engineering student at Ewha Womans University. Most of my work sits between
-blockchain internals and AI agents: tracing how a Solana transaction really reaches the leader by
-reading the validator source, and building agents whose execution path is gated by code rather than
-by a prompt.
-
-[![Gmail](https://img.shields.io/badge/kangrihyun.k@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangrihyun.k@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihyun-kang-54b6273b7)
+<div align="center"> 
+ <h1>Rihyun Kang</h1> 
+ <h3>Solana internals · AI agents · Backend</h3> 
+ <p> <em> I build systems where code, not a model, decides what moves money —<br> and I read protocol source to find out how things actually work. 
+ </em> </p> 
+ <p> Computer Science &amp; Engineering student at Ewha Womans University.<br> Most of my work sits between blockchain internals and AI agents: tracing how a Solana<br> transaction really reaches the leader by reading the validator source, and building<br> agents whose execution path is gated by code rather than by a prompt. 
+ </p> 
+ <p> <a href="mailto:kangrihyun.k@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/kangrihyun.k@gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white"></a> 
+ <a href="https://www.linkedin.com/in/rihyun-kang-54b6273b7"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white"></a> </p> </div>
 
 ---
 
