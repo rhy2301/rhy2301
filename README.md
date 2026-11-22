@@ -1,4 +1,6 @@
-# Hi, I'm Rihyun Kang 👋
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=240&text=Hi,%20I'm%20Rihyun%20Kang👋&animation=&fontColor=000000&fontSize=40" />
+    </div>
 
 **Blockchain Infrastructure Engineer · Solana · AI Agents**
 
@@ -6,7 +8,12 @@ I dig into how a Solana transaction actually travels from a wallet to the leader
 validator source instead of trusting dashboards — and build agents that move real funds only
 inside guardrails enforced by code.
 
-<!-- [Blog](링크) · [Email](mailto:공개용 이메일) · [LinkedIn](링크) -->
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> <a href=mailto:kangrihyun.k@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kangrihyun.k@gmail.com"> </a>
+          </div>  <br> 
+    <div style="text-align: left;">  </div> 
+    </div>
 
 | | |
 | --- | --- |
@@ -70,6 +77,28 @@ AI-based diagnosis of cultural-heritage damage, with restoration history recorde
 
 ## Stack
 
+    <div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;">  </div> 
+    </div>
+    <div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white">
+          <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
+          <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white">
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+          <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Matlab-0076a8?style=flat-square&logo=Matlab&logoColor=white">
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+          </div>
+    </div>
+    
+    
 **Languages** Python · TypeScript <!-- · Rust -->
 **Blockchain** Solana (agave internals, RPC, SPL Token) · x402
 **Backend** FastAPI · pydantic · pytest · mypy
