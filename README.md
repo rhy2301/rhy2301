@@ -9,7 +9,7 @@
   - 배경이 밝은 색이면 logoColor=black 으로
 -->
 
-#Hi, I'm Rihyun Kang
+# Hi, I'm Rihyun Kang👋
 
 ### Solana internals · AI agents · Backend
 
@@ -146,5 +146,5 @@ by a prompt.
 
 ## Education
 
-- **Ewha Womans University** — B.S. in Computer Science & Engineering, expected Aug 2027 · GPA 3.84/4.5 · ranked 19 of 541 (Fall 2025) · Academic Excellence Scholarship (Spring 2026)
-- **EwhaChain** (university blockchain club) — Vice President & dApp Team Lead, 18th cohort, Sep 2026 – present · curriculum design and outreach to external companies
+- **Ewha Womans University** — B.S. in Computer Science & Engineering, expected Aug 2027 · Academic Excellence Scholarship (Spring 2026)
+- **EwhaChain** (university blockchain club) — Vice President & dApp Team Lead, 18th cohort, Sep 2026 – present 
