@@ -21,7 +21,7 @@ blockchain internals and AI agents: tracing how a Solana transaction really reac
 reading the validator source, and building agents whose execution path is gated by code rather than
 by a prompt.
 
-[![Gmail](https://img.shields.io/badge/kangrihyun.k@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:kangrihyun.k@gmail.com)
+[![Gmail](https://img.shields.io/badge/kangrihyun.k@gmail.com-000C1F?style=flat-square&logo=gmail&logoColor=white)](mailto:kangrihyun.k@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rihyun-kang-54b6273b7)
 
 ---
